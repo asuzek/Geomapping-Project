@@ -1,4 +1,4 @@
-# Unit 17 | Assignment - Visualizing Data with Leaflet
+Visualizing Data with Leaflet
 
 ## Background
 
@@ -51,21 +51,3 @@ In this step we are going to..
 * Add a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
 
 * Add layer controls to our map.
-
-- - -
-
-### Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Completion of assigned tasks
-
-* Visual appearance
-
-* Professionalism
-
-**Good luck!**
-
-## Copyright
-
-Data Boot Camp (C) 2018. All Rights Reserved.
